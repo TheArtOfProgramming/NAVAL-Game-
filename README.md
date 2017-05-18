@@ -2,7 +2,7 @@
 Miembros del proyecto:
 -Alejo Castro.
 -Marcelo Marino.
--Martin Navarro.
+-Martin Navarro.//Listo.
 -Kevin Soruco.
 
 Proyecto: Batalla Naval .
